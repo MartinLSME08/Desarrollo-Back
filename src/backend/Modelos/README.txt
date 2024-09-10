@@ -1,0 +1,1 @@
+En esta carpeta van todos los modelos que representa la logica de negocio.
